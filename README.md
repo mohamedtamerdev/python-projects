@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://github.com/mohamedelkashef15">
+<a href="[https://github.com/mohamedtamerdev">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -20,10 +20,6 @@
 
 <a href="mailto:scriptedbymohamed@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/mohamedelkashef15">
-<img src="https://img.shields.io/badge/Profile%20Views-Track-555555?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -121,7 +117,7 @@ I learn best by building projects, experimenting with technologies, and understa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=donut-vertical&theme=transparent&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=donut-vertical&theme=transparent&hide_border=true" /> -->
 
 <br/><br/>
 
@@ -154,7 +150,7 @@ If you'd like to talk about **web development, programming, projects, or technol
 
 ### 📧 Email
 
-**[scriptedbymohamed@gmail.com](mailto:scriptedbymohamed@gmail.com)**
+
 
 <br/>
 
